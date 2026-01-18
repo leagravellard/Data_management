@@ -1,0 +1,16 @@
+pandas==2.2.3
+numpy==2.2.6
+matplotlib-inline==0.1.7
+regex==2024.11.6
+Unidecode==1.4.0
+nltk==3.9.1
+spacy==3.8.7
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl#sha256=7d6ad14cd5078e53147bfbf70fb9d433c6a3865b695fda2657140bbc59a27e29
+plotly==6.1.2
+nbformat==5.10.4
+wordcloud==1.9.4
+seaborn==0.13.2
+streamlit==1.45.1
+matplotlib==3.10.3
